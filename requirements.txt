@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+spacy
+transformers
+datasets
+evaluate
+seqeval
+torch
+pytest
