@@ -100,6 +100,21 @@ Validate the full processed training dataset:
 python -m src.validate_dataset --path data/processed/ner_starter_bio.csv
 ```
 
+## Colab Training Notebook
+
+Use this notebook when training without a local GPU:
+
+```text
+notebooks/colab_free_t4_training.ipynb
+```
+
+It is designed for Google Colab free tier and trains:
+
+- A lightweight spaCy NER model
+- A DistilBERT-based Hugging Face token-classification model
+
+In Colab, choose `Runtime > Change runtime type > T4 GPU` when available.
+
 The validator reports:
 
 - Dataset path
