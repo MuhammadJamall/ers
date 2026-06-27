@@ -1,0 +1,301 @@
+split,sentence_id,text
+train,1,Sara Ahmed joined Systems Limited in Saudi Arabia on March 2026 to work on transformer architecture.
+train,2,Zainab Iqbal presented a project on model fine tuning at Arbisoft during 15 July 2026.
+train,3,NetSol Technologies announced a new natural language processing team in Pakistan on next Friday.
+train,4,Jamal Masood is an engineer from Rawalpindi with experience in LangChain.
+train,5,Systems Limited is hiring graduates skilled in semantic search for its Doha office.
+train,6,Mehwish Akhtar will attend an interview at Afiniti on December 2025.
+train,7,The MLOps system was developed by National University of Sciences and Technology in Gulberg Lahore.
+train,8,Fatima Noor used BIO tagging to improve a product built for Lahore University of Management Sciences.
+train,9,Confiz released its large language models research report in 26 June 2026.
+train,10,Ali Raza moved to Karachi in 26 June 2026 and started learning prompt engineering.
+train,11,Mahnoor Rehman joined CureMD in Johar Town on June 2026 to work on multi agent systems.
+train,12,Omar Farooq presented a project on FastAPI at Google during October 2026.
+train,13,Google announced a new feature engineering team in Faisalabad on April 2025.
+train,14,Mahnoor Rehman is an engineer from Gulberg Lahore with experience in REST API.
+train,15,Lahore University of Management Sciences is hiring graduates skilled in model fine tuning for its Karachi office.
+train,16,Zainab Iqbal will attend an interview at National University of Sciences and Technology on 15 July 2026.
+train,17,The feature engineering system was developed by Afiniti in Faisalabad.
+train,18,Hira Shah used retrieval augmented generation to improve a product built for Arbisoft.
+train,19,Lahore University of Management Sciences released its feature engineering research report in today.
+train,20,Ali Raza moved to United Arab Emirates in January 2025 and started learning LangGraph.
+train,21,Zainab Iqbal joined Arbisoft in Riyadh on next Friday to work on BIO tagging.
+train,22,Mehwish Akhtar presented a project on MLOps at Confiz during 26 June 2026.
+train,23,Confiz announced a new vector database team in Gulberg Lahore on June 2026.
+train,24,Danish Ali is an engineer from Karachi with experience in REST API.
+train,25,Confiz is hiring graduates skilled in FastAPI for its United Arab Emirates office.
+train,26,Omar Farooq will attend an interview at Arbisoft on January 2025.
+train,27,The REST API system was developed by Google in Faisalabad.
+train,28,Sana Javed used prompt engineering to improve a product built for Pakistani Software Export Board.
+train,29,Arbisoft released its named entity recognition research report in December 2025.
+train,30,Ayesha Khan moved to Karachi in January 2025 and started learning feature engineering.
+train,31,Fatima Noor joined National University of Sciences and Technology in United Arab Emirates on next Friday to work on data preprocessing.
+train,32,Ali Raza presented a project on spaCy at Afiniti during September 2026.
+train,33,CureMD announced a new machine learning team in Doha on April 2025.
+train,34,Sara Ahmed is an engineer from Silicon Valley with experience in MLOps.
+train,35,National University of Sciences and Technology is hiring graduates skilled in large language models for its United Arab Emirates office.
+train,36,Maryam Tariq will attend an interview at Afiniti on December 2025.
+train,37,The LangChain system was developed by Google in Johar Town.
+train,38,Sara Ahmed used feature engineering to improve a product built for Data Science Lab.
+train,39,OpenAI released its prompt engineering research report in January 2025.
+train,40,Fatima Noor moved to Johar Town in October 2026 and started learning LangChain.
+train,41,Jamal Masood joined OpenAI in Dubai on December 2025 to work on machine learning.
+train,42,Sara Ahmed presented a project on token classification at Pakistani Software Export Board during October 2026.
+train,43,Systems Limited announced a new REST API team in Rawalpindi on October 2026.
+train,44,Ali Raza is an engineer from Saudi Arabia with experience in named entity recognition.
+train,45,National University of Sciences and Technology is hiring graduates skilled in model fine tuning for its Islamabad office.
+train,46,Nida Aslam will attend an interview at Google on March 2026.
+train,47,The LangGraph system was developed by Afiniti in Rawalpindi.
+train,48,Hamza Siddiqui used model fine tuning to improve a product built for Lahore University of Management Sciences.
+train,49,Microsoft Pakistan released its spaCy research report in 1 August 2026.
+train,50,Sara Ahmed moved to Rawalpindi in 15 July 2026 and started learning vector database.
+train,51,Jamal Masood joined OpenAI in Doha on Monday to work on REST API.
+train,52,Zainab Iqbal presented a project on feature engineering at Systems Limited during tomorrow.
+train,53,Confiz announced a new natural language processing team in Karachi on October 2026.
+train,54,Ahmed Rauf is an engineer from Doha with experience in BIO tagging.
+train,55,Confiz is hiring graduates skilled in multi agent systems for its Doha office.
+train,56,Saad Qureshi will attend an interview at OpenAI on Monday.
+train,57,The model fine tuning system was developed by Confiz in Karachi.
+train,58,Sana Javed used spaCy to improve a product built for Techlogix.
+train,59,Punjab University released its large language models research report in today.
+train,60,Ayesha Khan moved to Saudi Arabia in 26 June 2026 and started learning large language models.
+train,61,Zainab Iqbal joined Confiz in Rawalpindi on 1 August 2026 to work on spaCy.
+train,62,Usman Malik presented a project on spaCy at Afiniti during March 2026.
+train,63,Data Science Lab announced a new spaCy team in Silicon Valley on 15 July 2026.
+train,64,Mehwish Akhtar is an engineer from Lahore with experience in LangGraph.
+train,65,NetSol Technologies is hiring graduates skilled in transformer architecture for its Silicon Valley office.
+train,66,Fatima Noor will attend an interview at Afiniti on December 2025.
+train,67,The FastAPI system was developed by Pakistani Software Export Board in Lahore.
+train,68,Jamal Masood used spaCy to improve a product built for Afiniti.
+train,69,Afiniti released its LangGraph research report in tomorrow.
+train,70,Nida Aslam moved to Rawalpindi in March 2026 and started learning retrieval augmented generation.
+train,71,Ayesha Khan joined OpenAI in Saudi Arabia on 1 August 2026 to work on natural language processing.
+train,72,Ahmed Rauf presented a project on Hugging Face Transformers at Systems Limited during September 2026.
+train,73,Pakistani Software Export Board announced a new deep learning team in Gulberg Lahore on 1 August 2026.
+train,74,Ayesha Khan is an engineer from Karachi with experience in deep learning.
+train,75,OpenAI is hiring graduates skilled in transformer architecture for its Karachi office.
+train,76,Danish Ali will attend an interview at NetSol Technologies on September 2026.
+train,77,The named entity recognition system was developed by OpenAI in Lahore.
+train,78,Sana Javed used LangChain to improve a product built for Punjab University.
+train,79,Pakistani Software Export Board released its model fine tuning research report in Monday.
+train,80,Ahmed Rauf moved to Faisalabad in next Friday and started learning computer vision.
+train,81,Maryam Tariq joined Microsoft Pakistan in Dubai on October 2026 to work on MLOps.
+train,82,Ali Raza presented a project on REST API at Systems Limited during September 2026.
+train,83,NetSol Technologies announced a new LangChain team in Doha on Monday.
+train,84,Bilal Hussain is an engineer from Silicon Valley with experience in named entity recognition.
+train,85,Techlogix is hiring graduates skilled in spaCy for its Faisalabad office.
+train,86,Mehwish Akhtar will attend an interview at Lahore University of Management Sciences on September 2026.
+train,87,The LangGraph system was developed by Systems Limited in United Arab Emirates.
+train,88,Maryam Tariq used computer vision to improve a product built for Pakistani Software Export Board.
+train,89,NetSol Technologies released its multi agent systems research report in 15 July 2026.
+train,90,Mehwish Akhtar moved to Faisalabad in March 2026 and started learning data preprocessing.
+train,91,Hamza Siddiqui joined Lahore University of Management Sciences in Dubai on Monday to work on model fine tuning.
+train,92,Bilal Hussain presented a project on natural language processing at Google during March 2026.
+train,93,Punjab University announced a new BIO tagging team in Abu Dhabi on April 2025.
+train,94,Ayesha Khan is an engineer from Dubai with experience in computer vision.
+train,95,Arbisoft is hiring graduates skilled in LangGraph for its Saudi Arabia office.
+train,96,Sana Javed will attend an interview at Google on 15 July 2026.
+train,97,The prompt engineering system was developed by Google in Lahore.
+train,98,Saad Qureshi used computer vision to improve a product built for Google.
+train,99,CureMD released its natural language processing research report in October 2026.
+train,100,Hira Shah moved to United Arab Emirates in Monday and started learning model fine tuning.
+train,101,Sara Ahmed joined Techlogix in Johar Town on 1 August 2026 to work on PyTorch.
+train,102,Mahnoor Rehman presented a project on transformer architecture at Lahore University of Management Sciences during October 2026.
+train,103,National University of Sciences and Technology announced a new PyTorch team in Johar Town on January 2025.
+train,104,Jamal Masood is an engineer from Saudi Arabia with experience in vector database.
+train,105,National University of Sciences and Technology is hiring graduates skilled in multi agent systems for its United Arab Emirates office.
+train,106,Zainab Iqbal will attend an interview at CureMD on 5 May 2026.
+train,107,The Hugging Face Transformers system was developed by Afiniti in Gulberg Lahore.
+train,108,Zainab Iqbal used spaCy to improve a product built for Confiz.
+train,109,CureMD released its transformer architecture research report in 5 May 2026.
+train,110,Zainab Iqbal moved to United Arab Emirates in Monday and started learning FastAPI.
+train,111,Ahmed Rauf joined CureMD in Gulberg Lahore on 15 July 2026 to work on MLOps.
+train,112,Bilal Hussain presented a project on FastAPI at Techlogix during 1 August 2026.
+train,113,Techlogix announced a new BIO tagging team in Lahore on 15 July 2026.
+train,114,Fatima Noor is an engineer from Faisalabad with experience in large language models.
+train,115,Afiniti is hiring graduates skilled in vector database for its Dubai office.
+train,116,Sana Javed will attend an interview at OpenAI on 15 July 2026.
+train,117,The semantic search system was developed by Confiz in Faisalabad.
+train,118,Sana Javed used LangGraph to improve a product built for Systems Limited.
+train,119,Techlogix released its model fine tuning research report in 15 July 2026.
+train,120,Ahmed Rauf moved to Dubai in today and started learning large language models.
+train,121,Maryam Tariq joined Google in Faisalabad on today to work on PyTorch.
+train,122,Ahmed Rauf presented a project on LangGraph at Afiniti during March 2026.
+train,123,Confiz announced a new FastAPI team in Abu Dhabi on today.
+train,124,Fatima Noor is an engineer from Pakistan with experience in FastAPI.
+train,125,Data Science Lab is hiring graduates skilled in token classification for its Lahore office.
+train,126,Hamza Siddiqui will attend an interview at Afiniti on September 2026.
+train,127,The model fine tuning system was developed by Microsoft Pakistan in Riyadh.
+train,128,Hamza Siddiqui used multi agent systems to improve a product built for Google.
+train,129,Punjab University released its LangChain research report in March 2026.
+train,130,Mahnoor Rehman moved to Karachi in April 2025 and started learning MLOps.
+train,131,Zainab Iqbal joined Punjab University in Faisalabad on Monday to work on retrieval augmented generation.
+train,132,Usman Malik presented a project on Hugging Face Transformers at Systems Limited during Monday.
+train,133,Data Science Lab announced a new spaCy team in Johar Town on 15 July 2026.
+train,134,Sana Javed is an engineer from United Arab Emirates with experience in retrieval augmented generation.
+train,135,Microsoft Pakistan is hiring graduates skilled in computer vision for its Abu Dhabi office.
+train,136,Jamal Masood will attend an interview at Pakistani Software Export Board on April 2025.
+train,137,The deep learning system was developed by National University of Sciences and Technology in Abu Dhabi.
+train,138,Talha Saeed used transformer architecture to improve a product built for Microsoft Pakistan.
+train,139,Microsoft Pakistan released its spaCy research report in 5 May 2026.
+train,140,Talha Saeed moved to Pakistan in 26 June 2026 and started learning MLOps.
+train,141,Omar Farooq joined OpenAI in Gulberg Lahore on tomorrow to work on LangChain.
+train,142,Sana Javed presented a project on spaCy at Data Science Lab during 1 August 2026.
+train,143,Lahore University of Management Sciences announced a new spaCy team in Gulberg Lahore on December 2025.
+train,144,Bilal Hussain is an engineer from Rawalpindi with experience in feature engineering.
+train,145,National University of Sciences and Technology is hiring graduates skilled in Hugging Face Transformers for its Johar Town office.
+train,146,Zainab Iqbal will attend an interview at CureMD on 15 July 2026.
+train,147,The vector database system was developed by Confiz in Faisalabad.
+train,148,Mehwish Akhtar used transformer architecture to improve a product built for NetSol Technologies.
+train,149,Lahore University of Management Sciences released its retrieval augmented generation research report in tomorrow.
+train,150,Ali Raza moved to Abu Dhabi in 26 June 2026 and started learning LangGraph.
+train,151,Omar Farooq joined Afiniti in Lahore on Monday to work on PyTorch.
+train,152,Danish Ali presented a project on semantic search at Pakistani Software Export Board during September 2026.
+train,153,Data Science Lab announced a new REST API team in Silicon Valley on 5 May 2026.
+train,154,Danish Ali is an engineer from Lahore with experience in token classification.
+train,155,Data Science Lab is hiring graduates skilled in PyTorch for its Silicon Valley office.
+train,156,Mehwish Akhtar will attend an interview at Lahore University of Management Sciences on 1 August 2026.
+train,157,The PyTorch system was developed by Microsoft Pakistan in Rawalpindi.
+train,158,Nida Aslam used model fine tuning to improve a product built for Systems Limited.
+train,159,Lahore University of Management Sciences released its spaCy research report in April 2025.
+train,160,Usman Malik moved to Doha in June 2026 and started learning FastAPI.
+train,161,Saad Qureshi joined OpenAI in United Arab Emirates on June 2026 to work on named entity recognition.
+train,162,Sana Javed presented a project on deep learning at Arbisoft during December 2025.
+train,163,CureMD announced a new retrieval augmented generation team in Abu Dhabi on 26 June 2026.
+train,164,Omar Farooq is an engineer from Dubai with experience in FastAPI.
+train,165,National University of Sciences and Technology is hiring graduates skilled in BIO tagging for its Gulberg Lahore office.
+train,166,Ali Raza will attend an interview at Microsoft Pakistan on tomorrow.
+train,167,The named entity recognition system was developed by Techlogix in Rawalpindi.
+train,168,Ayesha Khan used retrieval augmented generation to improve a product built for National University of Sciences and Technology.
+train,169,OpenAI released its computer vision research report in Monday.
+train,170,Nida Aslam moved to Karachi in September 2026 and started learning retrieval augmented generation.
+train,171,Omar Farooq joined Lahore University of Management Sciences in Faisalabad on 5 May 2026 to work on prompt engineering.
+train,172,Fatima Noor presented a project on semantic search at OpenAI during tomorrow.
+train,173,National University of Sciences and Technology announced a new token classification team in Gulberg Lahore on January 2025.
+train,174,Sara Ahmed is an engineer from Lahore with experience in token classification.
+train,175,Punjab University is hiring graduates skilled in FastAPI for its Silicon Valley office.
+train,176,Hamza Siddiqui will attend an interview at NetSol Technologies on tomorrow.
+train,177,The token classification system was developed by NetSol Technologies in Saudi Arabia.
+train,178,Mahnoor Rehman used REST API to improve a product built for National University of Sciences and Technology.
+train,179,Techlogix released its model fine tuning research report in next Friday.
+train,180,Hira Shah moved to Doha in today and started learning vector database.
+train,181,Jamal Masood joined Data Science Lab in Abu Dhabi on April 2025 to work on Hugging Face Transformers.
+train,182,Sara Ahmed presented a project on spaCy at Afiniti during today.
+train,183,Afiniti announced a new LangChain team in Islamabad on tomorrow.
+train,184,Bilal Hussain is an engineer from Johar Town with experience in LangGraph.
+train,185,Microsoft Pakistan is hiring graduates skilled in multi agent systems for its Abu Dhabi office.
+train,186,Saad Qureshi will attend an interview at CureMD on April 2025.
+train,187,The transformer architecture system was developed by CureMD in Silicon Valley.
+train,188,Omar Farooq used FastAPI to improve a product built for OpenAI.
+train,189,Systems Limited released its vector database research report in April 2025.
+train,190,Fatima Noor moved to Rawalpindi in 26 June 2026 and started learning BIO tagging.
+train,191,Ahmed Rauf joined CureMD in Silicon Valley on September 2026 to work on semantic search.
+train,192,Bilal Hussain presented a project on retrieval augmented generation at Google during 1 August 2026.
+train,193,Confiz announced a new Hugging Face Transformers team in Saudi Arabia on next Friday.
+train,194,Mehwish Akhtar is an engineer from Rawalpindi with experience in Hugging Face Transformers.
+train,195,Microsoft Pakistan is hiring graduates skilled in named entity recognition for its Johar Town office.
+train,196,Maryam Tariq will attend an interview at Confiz on tomorrow.
+train,197,The Hugging Face Transformers system was developed by Punjab University in Pakistan.
+train,198,Mehwish Akhtar used multi agent systems to improve a product built for Google.
+train,199,Techlogix released its spaCy research report in tomorrow.
+train,200,Bilal Hussain moved to Faisalabad in Monday and started learning large language models.
+train,201,Hamza Siddiqui joined Techlogix in Karachi on tomorrow to work on LangGraph.
+train,202,Fatima Noor presented a project on Hugging Face Transformers at Confiz during tomorrow.
+train,203,Lahore University of Management Sciences announced a new LangChain team in Pakistan on 5 May 2026.
+train,204,Mahnoor Rehman is an engineer from Karachi with experience in retrieval augmented generation.
+train,205,Confiz is hiring graduates skilled in token classification for its Dubai office.
+train,206,Jamal Masood will attend an interview at Lahore University of Management Sciences on January 2025.
+train,207,The semantic search system was developed by Systems Limited in Doha.
+train,208,Usman Malik used Hugging Face Transformers to improve a product built for Punjab University.
+train,209,Data Science Lab released its token classification research report in September 2026.
+train,210,Nida Aslam moved to Riyadh in 26 June 2026 and started learning deep learning.
+validation,211,Ayesha Khan joined CureMD in Gulberg Lahore on December 2025 to work on large language models.
+validation,212,Ali Raza presented a project on REST API at Afiniti during 15 July 2026.
+validation,213,Arbisoft announced a new REST API team in Islamabad on 5 May 2026.
+validation,214,Maryam Tariq is an engineer from Rawalpindi with experience in LangGraph.
+validation,215,OpenAI is hiring graduates skilled in data preprocessing for its Pakistan office.
+validation,216,Zainab Iqbal will attend an interview at National University of Sciences and Technology on next Friday.
+validation,217,The PyTorch system was developed by CureMD in Gulberg Lahore.
+validation,218,Maryam Tariq used data preprocessing to improve a product built for OpenAI.
+validation,219,National University of Sciences and Technology released its retrieval augmented generation research report in today.
+validation,220,Bilal Hussain moved to Karachi in January 2025 and started learning transformer architecture.
+validation,221,Fatima Noor joined Google in Karachi on January 2025 to work on machine learning.
+validation,222,Sana Javed presented a project on Hugging Face Transformers at Microsoft Pakistan during September 2026.
+validation,223,Systems Limited announced a new semantic search team in Rawalpindi on March 2026.
+validation,224,Maryam Tariq is an engineer from Gulberg Lahore with experience in named entity recognition.
+validation,225,Pakistani Software Export Board is hiring graduates skilled in feature engineering for its Faisalabad office.
+validation,226,Saad Qureshi will attend an interview at Punjab University on October 2026.
+validation,227,The feature engineering system was developed by NetSol Technologies in Doha.
+validation,228,Usman Malik used computer vision to improve a product built for Pakistani Software Export Board.
+validation,229,Systems Limited released its token classification research report in 5 May 2026.
+validation,230,Mahnoor Rehman moved to Gulberg Lahore in September 2026 and started learning token classification.
+validation,231,Omar Farooq joined NetSol Technologies in Riyadh on tomorrow to work on token classification.
+validation,232,Danish Ali presented a project on Hugging Face Transformers at CureMD during 1 August 2026.
+validation,233,NetSol Technologies announced a new PyTorch team in Pakistan on June 2026.
+validation,234,Ahmed Rauf is an engineer from Faisalabad with experience in named entity recognition.
+validation,235,Punjab University is hiring graduates skilled in REST API for its Gulberg Lahore office.
+validation,236,Saad Qureshi will attend an interview at Systems Limited on today.
+validation,237,The deep learning system was developed by Systems Limited in Johar Town.
+validation,238,Nida Aslam used BIO tagging to improve a product built for Google.
+validation,239,OpenAI released its Hugging Face Transformers research report in today.
+validation,240,Ali Raza moved to Dubai in next Friday and started learning vector database.
+validation,241,Ahmed Rauf joined Punjab University in Karachi on April 2025 to work on deep learning.
+validation,242,Ahmed Rauf presented a project on token classification at Afiniti during December 2025.
+validation,243,Data Science Lab announced a new natural language processing team in Johar Town on 1 August 2026.
+validation,244,Omar Farooq is an engineer from Dubai with experience in vector database.
+validation,245,National University of Sciences and Technology is hiring graduates skilled in LangChain for its Abu Dhabi office.
+validation,246,Jamal Masood will attend an interview at Punjab University on 1 August 2026.
+validation,247,The prompt engineering system was developed by Systems Limited in Rawalpindi.
+validation,248,Mahnoor Rehman used spaCy to improve a product built for National University of Sciences and Technology.
+validation,249,Confiz released its computer vision research report in 1 August 2026.
+validation,250,Maryam Tariq moved to Silicon Valley in tomorrow and started learning Hugging Face Transformers.
+validation,251,Sara Ahmed joined Systems Limited in United Arab Emirates on September 2026 to work on transformer architecture.
+validation,252,Fatima Noor presented a project on LangGraph at CureMD during June 2026.
+validation,253,NetSol Technologies announced a new large language models team in Rawalpindi on April 2025.
+validation,254,Omar Farooq is an engineer from United Arab Emirates with experience in computer vision.
+validation,255,Pakistani Software Export Board is hiring graduates skilled in LangChain for its Saudi Arabia office.
+test,256,Bilal Hussain will attend an interview at Afiniti on December 2025.
+test,257,The FastAPI system was developed by Microsoft Pakistan in Doha.
+test,258,Hamza Siddiqui used multi agent systems to improve a product built for Pakistani Software Export Board.
+test,259,Data Science Lab released its MLOps research report in March 2026.
+test,260,Sana Javed moved to Silicon Valley in 5 May 2026 and started learning LangChain.
+test,261,Bilal Hussain joined Data Science Lab in Lahore on March 2026 to work on multi agent systems.
+test,262,Maryam Tariq presented a project on model fine tuning at Data Science Lab during September 2026.
+test,263,Data Science Lab announced a new LangGraph team in Islamabad on December 2025.
+test,264,Nida Aslam is an engineer from Dubai with experience in MLOps.
+test,265,Afiniti is hiring graduates skilled in vector database for its Riyadh office.
+test,266,Hamza Siddiqui will attend an interview at Lahore University of Management Sciences on September 2026.
+test,267,The natural language processing system was developed by Data Science Lab in Johar Town.
+test,268,Ahmed Rauf used FastAPI to improve a product built for Lahore University of Management Sciences.
+test,269,Punjab University released its feature engineering research report in April 2025.
+test,270,Usman Malik moved to Lahore in January 2025 and started learning LangChain.
+test,271,Saad Qureshi joined Techlogix in Gulberg Lahore on 15 July 2026 to work on spaCy.
+test,272,Sara Ahmed presented a project on machine learning at Google during December 2025.
+test,273,Afiniti announced a new computer vision team in Gulberg Lahore on today.
+test,274,Ali Raza is an engineer from Johar Town with experience in vector database.
+test,275,Lahore University of Management Sciences is hiring graduates skilled in named entity recognition for its Abu Dhabi office.
+test,276,Ahmed Rauf will attend an interview at Data Science Lab on April 2025.
+test,277,The MLOps system was developed by Techlogix in United Arab Emirates.
+test,278,Nida Aslam used data preprocessing to improve a product built for Data Science Lab.
+test,279,Confiz released its token classification research report in today.
+test,280,Zainab Iqbal moved to Karachi in next Friday and started learning large language models.
+test,281,Sara Ahmed joined Microsoft Pakistan in Islamabad on tomorrow to work on token classification.
+test,282,Jamal Masood presented a project on natural language processing at Systems Limited during 5 May 2026.
+test,283,Techlogix announced a new computer vision team in Dubai on next Friday.
+test,284,Zainab Iqbal is an engineer from Abu Dhabi with experience in model fine tuning.
+test,285,Arbisoft is hiring graduates skilled in data preprocessing for its Islamabad office.
+test,286,Danish Ali will attend an interview at OpenAI on Monday.
+test,287,The feature engineering system was developed by Arbisoft in Rawalpindi.
+test,288,Bilal Hussain used machine learning to improve a product built for Microsoft Pakistan.
+test,289,Pakistani Software Export Board released its LangGraph research report in today.
+test,290,Fatima Noor moved to Riyadh in 26 June 2026 and started learning REST API.
+test,291,Maryam Tariq joined Punjab University in Abu Dhabi on tomorrow to work on BIO tagging.
+test,292,Omar Farooq presented a project on FastAPI at Data Science Lab during Monday.
+test,293,NetSol Technologies announced a new REST API team in Rawalpindi on next Friday.
+test,294,Hira Shah is an engineer from Faisalabad with experience in token classification.
+test,295,Data Science Lab is hiring graduates skilled in BIO tagging for its United Arab Emirates office.
+test,296,Jamal Masood will attend an interview at OpenAI on today.
+test,297,The Hugging Face Transformers system was developed by Pakistani Software Export Board in Pakistan.
+test,298,Maryam Tariq used data preprocessing to improve a product built for National University of Sciences and Technology.
+test,299,Confiz released its data preprocessing research report in Monday.
+test,300,Bilal Hussain moved to Johar Town in tomorrow and started learning MLOps.

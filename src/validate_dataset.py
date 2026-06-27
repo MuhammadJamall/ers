@@ -1,5 +1,6 @@
-"""Validate the sample BIO-tagged NER dataset."""
+"""Validate BIO-tagged NER datasets."""
 
+import argparse
 from pathlib import Path
 
 import pandas as pd
@@ -8,6 +9,18 @@ from src.config import LABELS, SAMPLE_DATA_PATH
 
 
 REQUIRED_COLUMNS = {"sentence_id", "token", "label"}
+
+
+def parse_args() -> argparse.Namespace:
+    """Parse command-line arguments for dataset validation."""
+    parser = argparse.ArgumentParser(description="Validate a BIO-tagged NER CSV dataset.")
+    parser.add_argument(
+        "--path",
+        type=Path,
+        default=SAMPLE_DATA_PATH,
+        help="Path to the CSV file to validate. Defaults to data/sample_data.csv.",
+    )
+    return parser.parse_args()
 
 
 def load_dataset(csv_path: Path) -> pd.DataFrame:
@@ -139,13 +152,16 @@ def print_dataset_summary(dataframe: pd.DataFrame) -> None:
 
 
 def main() -> None:
-    """Load and validate the configured sample dataset."""
+    """Load and validate a BIO-tagged dataset."""
+    args = parse_args()
+
     try:
-        dataframe = load_dataset(SAMPLE_DATA_PATH)
+        dataframe = load_dataset(args.path)
     except (FileNotFoundError, ValueError) as exc:
         print(f"Validation failed: {exc}")
         raise SystemExit(1) from exc
 
+    print(f"Dataset path: {args.path}")
     errors = validate_dataset(dataframe)
     print_dataset_summary(dataframe)
 
